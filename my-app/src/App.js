@@ -1,11 +1,7 @@
-import User from "./User"
-function App(){
-  return(
-    <div>
-      <h1>Price </h1>
-      <User name   = "Swati" price ="250"/>
-    </div>
+import Greeting from "./Greeting";
 
-  );
+function App() {
+  return <Greeting name="Zeesy" />;
 }
-export default App
+
+export default App;

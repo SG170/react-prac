@@ -1,0 +1,22 @@
+.card {
+  width: 200px;
+  margin: 60px auto;
+  padding: 20px;
+  border-radius: 15px;
+  background: white;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+input {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+p {
+  font-weight: bold;
+  margin-top: 10px;
+}
